@@ -1,0 +1,13 @@
+C:\Users\thato\source\repos\database\Survey App\Survey App\bin\Debug\Survey App.exe.config
+C:\Users\thato\source\repos\database\Survey App\Survey App\bin\Debug\Survey App.exe
+C:\Users\thato\source\repos\database\Survey App\Survey App\bin\Debug\Survey App.pdb
+C:\Users\thato\source\repos\database\Survey App\Survey App\obj\Debug\Survey App.csproj.AssemblyReference.cache
+C:\Users\thato\source\repos\database\Survey App\Survey App\obj\Debug\Survey App.csproj.SuggestedBindingRedirects.cache
+C:\Users\thato\source\repos\database\Survey App\Survey App\obj\Debug\Survey_App.MainMenu.resources
+C:\Users\thato\source\repos\database\Survey App\Survey App\obj\Debug\Survey_App.Properties.Resources.resources
+C:\Users\thato\source\repos\database\Survey App\Survey App\obj\Debug\Survey App.csproj.GenerateResource.cache
+C:\Users\thato\source\repos\database\Survey App\Survey App\obj\Debug\Survey App.csproj.CoreCompileInputs.cache
+C:\Users\thato\source\repos\database\Survey App\Survey App\obj\Debug\Survey App.exe
+C:\Users\thato\source\repos\database\Survey App\Survey App\obj\Debug\Survey App.pdb
+C:\Users\thato\source\repos\database\Survey App\Survey App\obj\Debug\Survey_App.UserSurvey.resources
+C:\Users\thato\source\repos\database\Survey App\Survey App\obj\Debug\Survey_App.Results.resources
