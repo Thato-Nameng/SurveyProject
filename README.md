@@ -5,7 +5,7 @@ The SurveyProject is a  desktop application that I designed to collect valuable 
 This is a user-friendly application the allows users to fill out a survey form, providing us their preferences and 
 ratings for various activities.
 
-### Key Features
+#### Key Features
 
 - User-Friendly Interface: SurveyProject features an intuitive and easy-to-navigate user interface, making it simple
   for users to input their data.
